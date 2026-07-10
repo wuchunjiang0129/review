@@ -1,8 +1,6 @@
 # 文献概要
 
-## 记录格式
-
-
+### UAV+VLN
 ##  AerialVLN: Vision-and-Language Navigation for UAVs
 
 **论文链接：**[arXiv:2308.06735](https://arxiv.org/abs/2308.06735)（ICCV 2023）
